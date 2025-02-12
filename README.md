@@ -1,4 +1,6 @@
-📌 Portfólio Profissional - Jeferson Lopes
+criando meu portifólio
+
+Portfólio Profissional - Jeferson Lopes
 
 Este é o meu portfólio profissional, desenvolvido para apresentar minha trajetória, habilidades, certificações e projetos. O site foi criado utilizando HTML, CSS e JavaScript para proporcionar uma experiência interativa e visualmente agradável.
 
@@ -42,12 +44,8 @@ Abra o arquivo index.html em seu navegador.
 
 🚀 Deploy
 
-O site pode ser acessado online através do seguinte link:
-👉 Portfólio de Jeferson Lopes
+O site pode ser acessado online através do seguinte link: 👉 Portfólio de Jeferson Lopes
 
 📬 Contato
 
-📧 Email: jefferson260114@gmail.com🔗 
-LinkedIn: linkedin.com/in/jefferson2601🐙 
-GitHub: github.com/jefferson2601
-
+📧 Email: jefferson260114@gmail.com🔗 LinkedIn: linkedin.com/in/jefferson2601🐙 GitHub: github.com/jefferson2601
